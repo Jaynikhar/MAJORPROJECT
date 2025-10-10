@@ -110,7 +110,7 @@ app.use("/listings/:id/reviews", reviewRouter);
 app.use("/", userRouter);
 
 app.use((req, res, next) => {
-    next(new ExpressError(404, "Page Not Found!"));
+    next(new ExpressError(404, "Please Click on 'Explore'! "));
 });
 
 app.use((err, req, res, next ) => {
