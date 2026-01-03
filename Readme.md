@@ -57,6 +57,7 @@ https://majorproject-5yj9.onrender.com/listings
 ## 🏗️ System Architecture
 
 
+```text
 ┌────────────┐
 │   Client   │
 │ (Browser)  │
@@ -125,4 +126,13 @@ Additional Services:
 - Render (Deployment)
 
 ---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/MAJORPROJECT.git
+cd MAJORPROJECT
+
+
 
