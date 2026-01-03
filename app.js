@@ -1,3 +1,4 @@
+//not upload .env and node-modules  on git hub
 if  (process.env.NODE_ENV != "production") {
     require('dotenv').config();
 }
@@ -24,6 +25,7 @@ const userRouter =  require("./routes/user.js");
 const { userInfo } = require("os");
 
 // const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust" ;
+//database
 const dbUrl = process.env.ATLASDB_URL;
 
 main().then( () => {
@@ -43,6 +45,7 @@ app.use(methodOverride("_method"));
 app.engine('ejs', ejsMate);
 app.use(express.static(path.join(__dirname, "/public")));
 
+//database
 const store = MongoStore.create({
     mongoUrl: dbUrl,
     crypto: {
@@ -50,11 +53,12 @@ const store = MongoStore.create({
     },
     touchAfter: 24 * 3600 ,
 })
-
+//database
 store.on("error", () => {
     console.log("ERROR in MONGO SESSION STORE");
 });
 
+//database
 const sessionOption = {
     store,
     secret: process.env.SECRET,
