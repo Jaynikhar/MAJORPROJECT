@@ -54,6 +54,54 @@ https://majorproject-5yj9.onrender.com/listings
 
 ---
 
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Other Tools**
+- Middleware
+- File Upload Handling
+- Cloud Configuration
+- Render (Deployment)
+
+---
+
+# 📁 Project Folder Structure – MAJORPROJECT
+
+This document explains the complete folder structure of the **MAJORPROJECT** Node.js application and the purpose of each file and directory.
+
+---
+
+## 📂 Root Directory Structure
+
+```text
+MAJORPROJECT/
+│
+├── controllers/
+├── init/
+├── models/
+├── node_modules/
+├── public/
+├── routes/
+├── uploads/
+├── utils/
+├── views/
+│
+├── .env
+├── .gitignore
+├── app.js
+├── cloudConfig.js
+├── middleware.js
+├── schema.js
+├── package.json
+└── package-lock.json
+
 ## 🏗️ System Architecture
 
 
@@ -109,30 +157,4 @@ Additional Services:
 
 
 ---
-
-## 🛠️ Tech Stack
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Other Tools**
-- Middleware
-- File Upload Handling
-- Cloud Configuration
-- Render (Deployment)
-
----
-
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/MAJORPROJECT.git
-cd MAJORPROJECT
-
-
 
