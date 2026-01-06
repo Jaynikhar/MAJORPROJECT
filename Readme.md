@@ -77,6 +77,26 @@ https://majorproject-5yj9.onrender.com/listings
 This document explains the complete folder structure of the **MAJORPROJECT** Node.js application and the purpose of each file and directory.
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/home.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/login.png" width="45%" />
+  <img src="./screenshots/signup.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/show.png" width="45%" />
+  <img src="./screenshots/review.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/create.png" width="45%" />
+</p>
+---
 
 ## 📂 Root Directory Structure
 
