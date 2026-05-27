@@ -90,6 +90,24 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 📝 Signup Page
+![Signup](./screenshots/signup.png)
+
+### 📊 Home
+![Home](./screenshots/home.png)
+
+### 📁 Show Page
+![Show](./screenshots/show.png)
+
+---
+
+
+
 ## 📂 Root Directory Structure
 
 ```text
