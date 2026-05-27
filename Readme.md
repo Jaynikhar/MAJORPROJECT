@@ -79,9 +79,6 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 ---
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="./screenshots/home.png" width="45%" />
-</p>
 
 <p align="center">
   <img src="./screenshots/login.png" width="45%" />
@@ -94,7 +91,7 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 </p>
 
 <p align="center">
-  <img src="./screenshots/create.png" width="45%" />
+  <img src="./screenshots/createnew.png" width="45%" />
 </p>
 ---
 
