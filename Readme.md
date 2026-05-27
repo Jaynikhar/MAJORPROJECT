@@ -92,7 +92,7 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 </p>
 
 <p align="center">
-  <img src="./screenshots/review.png" width="45%" />
+  <img src="./screenshots/home.png" width="45%" />
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 
 <p align="center">
   <img src="./screenshots/show.png" height="55%" width="55%" />
-</p>
+</p>git 
 ---
 
 ## 📂 Root Directory Structure
