@@ -84,15 +84,7 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 </p>
 
 <p align="center">
-  <img src="./screenshots/signup.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/show.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/home.png" width="45%" />
+  <img src="./screenshots/review.png" width="45%" />
 </p>
 
 <p align="center">
@@ -103,16 +95,16 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/login.png" height="55%" width="55%" />
+  <img src="./screenshots/login.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/signup.png" height="55%" width="55%" />
+  <img src="./screenshots/signup.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/show.png" height="55%" width="55%" />
-</p>git 
+  <img src="./screenshots/show.png" width="45%" />
+</p> 
 ---
 
 ## 📂 Root Directory Structure
