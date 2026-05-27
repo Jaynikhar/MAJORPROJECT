@@ -4,7 +4,7 @@ A full-stack Node.js and Express-based web application for creating, managing, a
 The project follows a clean, scalable, and modular backend architecture with controllers, routes, middleware, and cloud/file upload support.
 
 🌐 **Live Project:**  
-https://majorproject-5yj9.onrender.com/listings
+https://majorproject-4ohi.onrender.com/listings
 
 ---
 
