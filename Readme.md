@@ -88,21 +88,6 @@ This document explains the complete folder structure of the **MAJORPROJECT** Nod
   <img src="./screenshots/createnew.png" width="45%" />
 </p>
 
----
-
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login](./screenshots/login.png)
-
-### 📝 Signup Page
-![Signup](./screenshots/signup.png)
-
-### 📊 Home
-![Home](./screenshots/home.png)
-
-### 📁 Show Page
-![Show](./screenshots/show.png)
 
 ---
 
